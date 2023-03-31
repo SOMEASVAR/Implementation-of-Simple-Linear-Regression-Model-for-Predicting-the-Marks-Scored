@@ -83,10 +83,10 @@ print("RMSE =",rmse)
 ### Tested value of Y:
 ![image](https://user-images.githubusercontent.com/93434149/229068708-f80490f2-2bdd-48f3-bedc-c3a6b6e5407e.png)
 
-### Graph for Training Set:
+### Graph of Training Set:
 ![image](https://user-images.githubusercontent.com/93434149/229068760-9dd45a11-afc1-45da-a089-06b174873bf4.png)
 
-### Graph for Test Set:
+### Graph of Test Set:
 ![image](https://user-images.githubusercontent.com/93434149/229068831-8766a5eb-4fe3-4dbf-baea-bfe3f6499223.png)
 
 ### Value for MSE, MAE, RMSE:
