@@ -65,8 +65,23 @@ print("RMSE =",rmse)
 ```
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
-
-
+### Head:
+![image](https://user-images.githubusercontent.com/93434149/229063971-6531e292-48c2-499d-898a-b5485083b82b.png)
+### Tail:
+![image](https://user-images.githubusercontent.com/93434149/229065093-f79565bb-a686-4ad5-88c7-5e7f1d296220.png)
+### Value of X:
+![image](https://user-images.githubusercontent.com/93434149/229065264-fdd817d6-7a17-482c-975a-c7afea4bdfc9.png)
+### Value of Y:
+![image](https://user-images.githubusercontent.com/93434149/229065354-aa17541e-d244-44ee-9f48-313cb1feb3cf.png)
+### Predicted value of Y:
+![image](https://user-images.githubusercontent.com/93434149/229065573-4f472e28-52d8-42a3-b110-10628d4ce595.png)
+### Tested value of Y:
+![image](https://user-images.githubusercontent.com/93434149/229065830-10ddc9b4-5ac6-4b88-ab52-b83376473364.png)
+### Graph for Training Set:
+![image](https://user-images.githubusercontent.com/93434149/229066019-1e792834-fc32-4d7c-a62e-b7338c84b0f9.png)
+### Graph for Test Set:
+![image](https://user-images.githubusercontent.com/93434149/229066105-4bdc34b8-e8a8-4186-afe1-35c58ef846e1.png)
+### Value for MSE, MAE, RMSE:
+![Uploading image.png…]()
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
