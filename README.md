@@ -65,28 +65,28 @@ print("RMSE =",rmse)
 ```
 
 ## Output:
-### Head:
+### df.head():
 ![image](https://user-images.githubusercontent.com/93434149/229068426-b5dae7a5-eb88-42e3-a08d-413c9141d451.png)
 
-### Tail:
+### df.tail:
 ![image](https://user-images.githubusercontent.com/93434149/229068496-a2665a6d-817f-4e72-8225-3e4f72556aab.png)
 
-### Value of X:
+### Array value of X:
 ![image](https://user-images.githubusercontent.com/93434149/229068561-9b4d801f-87f1-4a01-8878-30f6ad23c156.png)
 
-### Value of Y:
+### Array value of Y:
 ![image](https://user-images.githubusercontent.com/93434149/229068599-6eea1043-7def-4030-9d7d-99149575f2ea.png)
 
-### Predicted value of Y:
+### Values of Y prediction:
 ![image](https://user-images.githubusercontent.com/93434149/229068658-d50f255d-bd3b-4e6c-9a4b-b3730d071b23.png)
 
-### Tested value of Y:
+### Array value of Y test:
 ![image](https://user-images.githubusercontent.com/93434149/229068708-f80490f2-2bdd-48f3-bedc-c3a6b6e5407e.png)
 
-### Graph of Training Set:
+### Training Set Graph:
 ![image](https://user-images.githubusercontent.com/93434149/229068760-9dd45a11-afc1-45da-a089-06b174873bf4.png)
 
-### Graph of Test Set:
+### Test Set Graph:
 ![image](https://user-images.githubusercontent.com/93434149/229068831-8766a5eb-4fe3-4dbf-baea-bfe3f6499223.png)
 
 ### Value for MSE, MAE, RMSE:
